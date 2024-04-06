@@ -72,8 +72,7 @@ else:
  ```
 
 # Output : 
-
-![image](https://github.com/keerthanapillaram/Poisson_distribution/assets/145743072/45752fcc-3729-4ca6-955a-262d07b7e82d)
+![image](https://github.com/Nishadayalan/Poisson_distribution/assets/144870468/36ce68a0-d107-4646-a9a6-2cd56e4e06d2)
 
 
 # Results
